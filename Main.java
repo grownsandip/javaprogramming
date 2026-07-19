@@ -1,0 +1,8 @@
+public class Main{
+    public static void main(String[] args){
+        System.out.println("Hello world");
+    }
+}
+
+// to compile use: javac filename.java -d builds
+// to run use: java -cp builds class_name
