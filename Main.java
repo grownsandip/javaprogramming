@@ -5,4 +5,4 @@ public class Main{
 }
 
 // to compile use: javac filename.java -d builds
-// to run use: java -cp builds class_name
+// to run use: java -cp builds clas
